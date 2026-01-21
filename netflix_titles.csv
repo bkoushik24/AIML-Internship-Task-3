@@ -1,0 +1,21 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,United States,"September 1, 2020",2010,PG-13,148 min,"Sci-Fi, Thriller"
+s2,TV Show,Breaking Bad,Vince Gilligan,Bryan Cranston,United States,"January 20, 2019",2008,TV-MA,5 Seasons,"Crime, Drama"
+s3,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,"November 27, 2019",2019,R,209 min,"Crime, Drama"
+s4,TV Show,Stranger Things,The Duffer Brothers,Millie Bobby Brown,United States,"July 15, 2016",2016,TV-14,4 Seasons,"Sci-Fi, Horror"
+s5,Movie,Interstellar,Christopher Nolan,Matthew McConaughey,United States,"August 5, 2020",2014,PG-13,169 min,"Sci-Fi, Drama"
+s6,Movie,Roma,Alfonso Cuaron,Yalitza Aparicio,Mexico,"December 14, 2018",2018,R,135 min,Drama
+s7,TV Show,Money Heist,Alex Pina,Alvaro Morte,Spain,"March 31, 2017",2017,TV-MA,5 Seasons,"Crime, Thriller"
+s8,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,PG-13,124 min,"Horror, Thriller"
+s9,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,"June 21, 2017",2017,TV-MA,3 Seasons,"Sci-Fi, Thriller"
+s10,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,"April 24, 2020",2020,R,117 min,"Action, Thriller"
+s11,Movie,The Social Network,David Fincher,Jesse Eisenberg,United States,"January 16, 2011",2010,PG-13,120 min,Drama
+s12,TV Show,The Crown,Peter Morgan,Claire Foy,United Kingdom,"November 4, 2016",2016,TV-MA,4 Seasons,"Drama, History"
+s13,Movie,Joker,Todd Phillips,Joaquin Phoenix,United States,"October 3, 2019",2019,R,122 min,"Crime, Drama"
+s14,TV Show,Narcos,Chris Brancato,Pedro Pascal,United States,"September 1, 2017",2015,TV-MA,3 Seasons,"Crime, Drama"
+s15,Movie,Parasite,Bong Joon-ho,Song Kang-ho,South Korea,"January 1, 2020",2019,R,132 min,Thriller
+s16,Movie,Avengers: Endgame,Anthony Russo,Robert Downey Jr.,United States,"December 25, 2019",2019,PG-13,181 min,"Action, Adventure"
+s17,TV Show,The Witcher,Lauren Schmidt,Henry Cavill,United States,"December 20, 2019",2019,TV-MA,2 Seasons,"Fantasy, Drama"
+s18,Movie,Titanic,James Cameron,Leonardo DiCaprio,United States,"January 1, 2021",1997,PG-13,195 min,"Romance, Drama"
+s19,TV Show,Black Mirror,Charlie Brooker,Various,United Kingdom,"December 28, 2018",2018,TV-MA,5 Seasons,"Sci-Fi, Drama"
+s20,Movie,Dangal,Nitesh Tiwari,Aamir Khan,India,"April 1, 2018",2016,PG,161 min,"Drama, Sports"
